@@ -1,4 +1,4 @@
-## Apresentação 👋
+### Apresentação 👋
     nome = "João Vítor Teodoro Santos"
     data_nascimento = "10/09/2000"
     formacoes = ["Bacharel em Administração - UFU", "Tecnólogo em Ciência de Dados - UNIUBE (em progresso)"]
