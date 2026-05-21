@@ -1,27 +1,16 @@
 ![World Map](./assets/mapa_mundial.png)
-
-<table width="100%">
-  <tr>
-    <td align="left">
-      <a href="./README.md">
-        <img src="https://img.shields.io/badge/Português-009C3B?style=for-the-badge&logo=googletranslate&logoColor=white" />
-      </a>
-      <a href="./README_EN.md">
-        <img src="https://img.shields.io/badge/English-012169?style=for-the-badge&logo=googletranslate&logoColor=white" />
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://www.linkedin.com/in/joao-vitor-teodoro-santos/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div>
+<a href="./README.md">
+  <img src="https://img.shields.io/badge/Português-009C3B?style=for-the-badge&logo=googletranslate&logoColor=white" />
+</a>
+<a href="./README_EN.md">
+  <img src="https://img.shields.io/badge/English-012169?style=for-the-badge&logo=googletranslate&logoColor=white" />
+</a>
+</div>
 
 ## About me
 
 ```python
-
 from datetime import date
 
 name = "João Vítor Teodoro Santos"
@@ -34,7 +23,6 @@ education = [
 interest = "software development and engineering"
 dream = "travel the world"
 
-
 def introduction(name: str, birth: date, education: list[str], interest: str, dream: str) -> None:
     message = (
         f"Name: {name} || Age: {(date.today() - birth).days // 365} years old\n\n"
@@ -45,20 +33,11 @@ def introduction(name: str, birth: date, education: list[str], interest: str, dr
     )
     print(message)
 
-
 if __name__ == "__main__":
     introduction(name, birth, education, interest, dream)
-
 ```
 
-
-## Information
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="left">
+## Languages
 
 💪 **Main:**
 
@@ -75,34 +54,45 @@ if __name__ == "__main__":
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-</td>
-    <td width="80"></td>
-    <td align="right">
-      <img src="./assets/statue_of_liberty.png" width="160" alt="Statue of Liberty"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <img src="./assets/maple_leaf.png" width="160" alt="Maple Leaf"/>
-    </td>
-    <td width="80"></td>
-    <td align="right">
+## Statistics
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaovteodoro&theme=dark)
+<div align="left">
+  
+<div>
+<img src="./assets/statue_of_liberty.png" width="160" alt="Statue of Liberty"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaovteodoro&theme=dark&layout=compact" width="450" alt="Top Langs"/>
+</div>
 
-</td>
-  </tr>
-  <tr>
-    <td align="left">
+<br>
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaovteodoro&theme=dark&layout=compact)
+<div>
+<img src="./assets/maple_leaf.png" width="160" alt="Maple Leaf"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovteodoro&theme=dark" width="550" alt="Streak"/>
+</div>
 
-</td>
-    <td width="80"></td>
-    <td align="right">
-      <img src="./assets/telephone_booth.png" width="160" alt="Telephone Booth"/>
-    </td>
-  </tr>
-</table>
+<br>
+
+<div>
+<img src="./assets/telephone_booth.png" width="160" alt="Telephone Booth"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaovteodoro&theme=dark" width="650" alt="Summary"/>
+</div>
 
 </div>
+
+## Social Media
+
+<div>
+<a href="https://www.linkedin.com/in/joao-vitor-teodoro-santos/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</div>
+
+
+
+
+
+
+
+
+
+
