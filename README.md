@@ -1,22 +1,13 @@
-![Mapa Mundia2](./assets/mapa_mundial.png)
+![Mapa Mundial](./assets/mapa_mundial.png)
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <a href="./README.md">
-        <img src="https://img.shields.io/badge/Português-009C3B?style=for-the-badge&logo=googletranslate&logoColor=white" />
-      </a>
-      <a href="./README_EN.md">
-        <img src="https://img.shields.io/badge/English-012169?style=for-the-badge&logo=googletranslate&logoColor=white" />
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://www.linkedin.com/in/joao-vitor-teodoro-santos/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div>
+<a href="./README.md">
+  <img src="https://img.shields.io/badge/Português-009C3B?style=for-the-badge&logo=googletranslate&logoColor=white" />
+</a>
+<a href="./README_EN.md">
+  <img src="https://img.shields.io/badge/English-012169?style=for-the-badge&logo=googletranslate&logoColor=white" />
+</a>
+</div>
 
 ## Sobre mim 
 
@@ -51,13 +42,7 @@ if __name__ == "__main__":
 
 ```
 
-## Informações
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="left">
+## Linguagens
 
 💪 **Principal:**
 
@@ -74,34 +59,38 @@ if __name__ == "__main__":
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-</td>
-    <td width="80"></td>
-    <td align="right">
-      <img src="./assets/cristo_redentor.png" width="160" alt="Cristo Redentor"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <img src="./assets/torre_de_belem.png" width="160" alt="Torre de Belem"/>
-    </td>
-    <td width="80"></td>
-    <td align="right">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaovteodoro&theme=dark)
+## Estatísticas
 
-</td>
-  </tr>
-  <tr>
-    <td align="left">
+<div align="left">
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaovteodoro&theme=dark&layout=compact)
+<div>
+<img src="./assets/cristo_redentor.png" width="150" alt="Cristo Redentor"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaovteodoro&theme=dark&layout=compact" width="450" alt="Top Langs"/>
+</div>
 
-</td>
-    <td width="80"></td>
-    <td align="right">
-      <img src="./assets/pao_de_acucar.png" width="160" alt="Pão de Açúcar"/>
-    </td>
-  </tr>
-</table>
+<br>
 
+<div>
+<img src="./assets/torre_de_belem.png" width="150" alt="Torre de Belem"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovteodoro&theme=dark" width="550" alt="Streak"/>
+</div>
+
+<br>
+
+<div>
+<img src="./assets/pao_de_acucar.png" width="150" alt="Pão de Açúcar"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaovteodoro&theme=dark"  width="650" alt="Summary"/>
+
+</div>
+
+</div>
+
+
+## Redes Sociais
+
+<div>
+<a href="https://www.linkedin.com/in/joao-vitor-teodoro-santos/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </div>
