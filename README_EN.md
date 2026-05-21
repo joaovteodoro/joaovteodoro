@@ -1,4 +1,4 @@
-![Mapa Mundia2](./assets/mapa_mundial.png)
+![World Map](./assets/mapa_mundial.png)
 
 <table width="100%">
   <tr>
@@ -18,40 +18,41 @@
   </tr>
 </table>
 
-## Sobre mim 
+## About me
 
 ```python
 
 from datetime import date
 
-nome = "João Vítor Teodoro Santos"
-nascimento = date(2000, 9, 10)
-formacoes = [
-    "- Bacharel em Administração - UFU",
-    "- Graduando em Ciência de Dados - UNIUBE",
-    "- Graduando em Sistemas da Informação - UFU",
+name = "João Vítor Teodoro Santos"
+birth = date(2000, 9, 10)
+education = [
+    "- Bachelor's in Business Administration - UFU",
+    "- Undergraduate in Data Science - UNIUBE",
+    "- Undergraduate in Information Systems - UFU",
 ]
-interesse = "desenvolvimento e engenharia de software"
-sonho = "viajar o mundo"
+interest = "software development and engineering"
+dream = "travel the world"
 
 
-def apresentacao(nome: str, nascimento: date, formacoes: list[str], interesse: str, sonho:str) -> None:
-    mensagem = (
-        f"Nome: {nome} || Idade: {(date.today() - nascimento).days // 365} anos\n\n"
-        + "Formações:\n"
-        + "\n".join(formacoes)
-        + f"\n\nAtualmente, tenho interesse em {interesse}\n\n"
-        + f"Maior sonho: {sonho}"
+def introduction(name: str, birth: date, education: list[str], interest: str, dream: str) -> None:
+    message = (
+        f"Name: {name} || Age: {(date.today() - birth).days // 365} years old\n\n"
+        + "Education:\n"
+        + "\n".join(education)
+        + f"\n\nCurrently, I am interested in {interest}\n\n"
+        + f"Biggest dream: {dream}"
     )
-    print(mensagem)
+    print(message)
 
 
 if __name__ == "__main__":
-    apresentacao(nome, nascimento, formacoes, interesse, sonho)
+    introduction(name, birth, education, interest, dream)
 
 ```
 
-## Informações
+
+## Information
 
 <div align="center">
 
@@ -59,30 +60,30 @@ if __name__ == "__main__":
   <tr>
     <td align="left">
 
-💪 **Principal:**
+💪 **Main:**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-👆 **Já utilizadas em oportunidades:**
+👆 **Already used in opportunities:**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-🧠 **Sem experiência mas já estudei:**
+🧠 **No experience but already studied:**
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 </td>
     <td width="80"></td>
     <td align="right">
-      <img src="./assets/cristo_redentor.png" width="160" alt="Cristo Redentor"/>
+      <img src="./assets/statue_of_liberty.png" width="160" alt="Statue of Liberty"/>
     </td>
   </tr>
   <tr>
     <td align="left">
-      <img src="./assets/torre_de_belem.png" width="160" alt="Torre de Belem"/>
+      <img src="./assets/maple_leaf.png" width="160" alt="Maple Leaf"/>
     </td>
     <td width="80"></td>
     <td align="right">
@@ -99,7 +100,7 @@ if __name__ == "__main__":
 </td>
     <td width="80"></td>
     <td align="right">
-      <img src="./assets/pao_de_acucar.png" width="160" alt="Pão de Açúcar"/>
+      <img src="./assets/telephone_booth.png" width="160" alt="Telephone Booth"/>
     </td>
   </tr>
 </table>
