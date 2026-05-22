@@ -70,14 +70,14 @@ if __name__ == "__main__":
 <br>
 
 <div>
-<img src="./assets/maple_leaf.png" width="165" alt="Maple Leaf"/>
+<img src="./assets/maple_leaf.png" width="150" alt="Maple Leaf"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovteodoro&theme=dark" width="550" alt="Streak"/>
 </div>
 
 <br>
 
 <div>
-<img src="./assets/telephone_booth.png" width="165" alt="Telephone Booth"/>
+<img src="./assets/telephone_booth.png" width="150" alt="Telephone Booth"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaovteodoro&theme=dark" width="650" alt="Summary"/>
 </div>
 
