@@ -39,7 +39,6 @@ def apresentacao(nome: str, nascimento: date, formacoes: list[str], interesse: s
     )
     print(mensagem)
 
-
 if __name__ == "__main__":
     apresentacao(nome, nascimento, formacoes, interesse, sonho)
 
