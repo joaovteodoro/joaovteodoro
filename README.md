@@ -29,7 +29,6 @@ formacoes = [
 interesse = "desenvolvimento e engenharia de software"
 sonho = "viajar o mundo"
 
-
 def apresentacao(nome: str, nascimento: date, formacoes: list[str], interesse: str, sonho:str) -> None:
     mensagem = (
         f"Nome: {nome} || Idade: {(date.today() - nascimento).days // 365} anos\n\n"
