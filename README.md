@@ -9,6 +9,10 @@
 </a>
 </div>
 
+<div>
+<img src="./assets/bandeira_brasil.png" width="30" alt="Bandeira Brasil"/>
+</div>
+
 ## Sobre mim 
 
 ```python

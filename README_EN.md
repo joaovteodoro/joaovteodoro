@@ -8,6 +8,10 @@
 </a>
 </div>
 
+<div>
+<img src="./assets/usa_flag.png" width="30" alt="USA Flag"/>
+</div>
+
 ## About me
 
 ```python
