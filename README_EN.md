@@ -64,21 +64,21 @@ if __name__ == "__main__":
   
 <div>
 <img src="./assets/statue_of_liberty.png" width="150" alt="Statue of Liberty"/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaovteodoro&theme=dark&layout=compact" width="450" alt="Top Langs"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaovteodoro&theme=darcula&layout=compact" width="450" alt="Top Langs"/>
 </div>
 
 <br>
 
 <div>
 <img src="./assets/maple_leaf.png" width="150" alt="Maple Leaf"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovteodoro&theme=dark" width="550" alt="Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovteodoro&theme=darcula" width="550" alt="Streak"/>
 </div>
 
 <br>
 
 <div>
 <img src="./assets/telephone_booth.png" width="150" alt="Telephone Booth"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaovteodoro&theme=dark" width="650" alt="Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaovteodoro&theme=gruvbox" width="650" alt="Summary"/>
 </div>
 
 </div>
@@ -90,13 +90,3 @@ if __name__ == "__main__":
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </div>
-
-
-
-
-
-
-
-
-
-
