@@ -68,21 +68,21 @@ if __name__ == "__main__":
 
 <div>
 <img src="./assets/cristo_redentor.png" width="150" alt="Cristo Redentor"/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaovteodoro&theme=dark&layout=compact" width="450" alt="Top Langs"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaovteodoro&theme=transparent&layout=compact&bg_color=00000000&title_color=00ff00" width="450" alt="Top Langs"/>
 </div>
 
 <br>
 
 <div>
 <img src="./assets/torre_de_belem.png" width="150" alt="Torre de Belem"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovteodoro&theme=dark" width="550" alt="Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovteodoro&theme=transparent&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" width="550" alt="Streak"/>
 </div>
 
 <br>
 
 <div>
 <img src="./assets/pao_de_acucar.png" width="150" alt="Pão de Açúcar"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaovteodoro&theme=dark"  width="650" alt="Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaovteodoro&theme=github_dark"  width="650" alt="Summary"/>
 
 </div>
 
