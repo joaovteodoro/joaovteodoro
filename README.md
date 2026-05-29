@@ -16,7 +16,6 @@
 ## Sobre mim 
 
 ```python
-
 from datetime import date
 
 nome = "João Vítor Teodoro Santos"
@@ -40,7 +39,6 @@ def apresentacao(nome: str, nascimento: date, formacoes: list[str], interesse: s
 
 if __name__ == "__main__":
     print(apresentacao(nome, nascimento, formacoes, interesse, sonho))
-
 ```
 
 ## Linguagens
@@ -59,7 +57,6 @@ if __name__ == "__main__":
 🧠 **Sem experiência mas já estudei:**
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-
 
 ## Estatísticas
 
@@ -86,7 +83,6 @@ if __name__ == "__main__":
 </div>
 
 </div>
-
 
 ## Redes Sociais
 
