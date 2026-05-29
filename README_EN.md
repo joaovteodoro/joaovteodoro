@@ -70,7 +70,7 @@ if __name__ == "__main__":
 
 <div>
 <img src="./assets/maple_leaf.png" width="150" alt="Maple Leaf"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovteodoro&theme=transparent&currStreakNum=cc0000&sideNums=cc0000&sideLabels=cc0000&dates=8B0000" width="550" alt="Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovteodoro&theme=transparent&currStreakNum=8B0000&sideNums=8B0000&sideLabels=7B1F1F&dates=722F37" width="550" alt="Streak"/>
 </div>
 
 <br>
