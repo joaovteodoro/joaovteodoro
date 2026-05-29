@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Português-009C3B?style=for-the-badge&logo=googletranslate&logoColor=white" />
 </a>
 <a href="./README_EN.md">
-  <img src="https://img.shields.io/badge/English-012169?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-002776?style=for-the-badge&logo=googletranslate&logoColor=white" />
 </a>
 </div>
 
