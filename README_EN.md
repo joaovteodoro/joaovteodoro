@@ -44,18 +44,18 @@ if __name__ == "__main__":
 
 💪 **Main:**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-0A3161?style=for-the-badge&logo=python&logoColor=white)
 
 👆 **Already used in opportunities:**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Java](https://img.shields.io/badge/Java-B22234?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0A3161?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-B22234?style=for-the-badge&logo=css&logoColor=white)
 
 🧠 **No experience but already studied:**
 
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-0A3161?style=for-the-badge&logo=ruby&logoColor=white)
 
 ## Statistics
 
@@ -86,6 +86,6 @@ if __name__ == "__main__":
 
 <div>
 <a href="https://www.linkedin.com/in/joao-vitor-teodoro-santos/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A3161?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </div>
