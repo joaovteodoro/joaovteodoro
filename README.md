@@ -26,21 +26,20 @@ formacoes = [
     "- Graduando em Ciência de Dados - UNIUBE",
     "- Graduando em Sistemas da Informação - UFU",
 ]
-interesse = "desenvolvimento e engenharia de software"
+interesse = "Qualidade de Software (QA), Desenvolvimento e Engenharia de Software"
 sonho = "viajar o mundo"
 
-def apresentacao(nome: str, nascimento: date, formacoes: list[str], interesse: str, sonho:str) -> None:
+def apresentacao(nome: str, nascimento: date, formacoes: list[str], interesse: str, sonho: str) -> str:
     mensagem = (
         f"Nome: {nome} || Idade: {(date.today() - nascimento).days // 365} anos\n\n"
-        + "Formações:\n"
-        + "\n".join(formacoes)
-        + f"\n\nAtualmente, tenho interesse em {interesse}\n\n"
-        + f"Maior sonho: {sonho}"
+        f"Formações:\n{"\n".join(formacoes)}"
+        f"\n\nInteresses atuais: {interesse}\n\n"
+        f"Maior sonho: {sonho}"
     )
-    print(mensagem)
+    return mensagem
 
 if __name__ == "__main__":
-    apresentacao(nome, nascimento, formacoes, interesse, sonho)
+    print(apresentacao(nome, nascimento, formacoes, interesse, sonho))
 
 ```
 
