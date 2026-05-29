@@ -15,7 +15,6 @@
 ## About me
 
 ```python
-
 from datetime import date
 
 name = "João Vítor Teodoro Santos"
@@ -39,7 +38,6 @@ def presentation(name: str, birth: date, educations: list[str], interest: str, d
 
 if __name__ == "__main__":
     print(presentation(name, birth, educations, interest, dream))
-
 ```
 
 ## Languages
