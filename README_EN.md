@@ -63,14 +63,14 @@ if __name__ == "__main__":
   
 <div>
 <img src="./assets/statue_of_liberty.png" width="150" alt="Statue of Liberty"/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaovteodoro&theme=transparent&layout=compact&bg_color=00000000&title_color=ff0000" width="450" alt="Top Langs"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaovteodoro&theme=transparent&layout=compact&bg_color=00000000&title_color=8B0000" width="450" alt="Top Langs"/>
 </div>
 
 <br>
 
 <div>
 <img src="./assets/maple_leaf.png" width="150" alt="Maple Leaf"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovteodoro&theme=transparent&currStreakNum=cc0000&sideNums=cc0000&sideLabels=cc0000" width="550" alt="Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovteodoro&theme=transparent&currStreakNum=cc0000&sideNums=cc0000&sideLabels=cc0000&dates=8B0000" width="550" alt="Streak"/>
 </div>
 
 <br>
