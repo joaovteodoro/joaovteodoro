@@ -15,30 +15,31 @@
 ## About me
 
 ```python
+
 from datetime import date
 
 name = "João Vítor Teodoro Santos"
 birth = date(2000, 9, 10)
-education = [
+educations = [
     "- Bachelor's in Business Administration - UFU",
     "- Undergraduate in Data Science - UNIUBE",
     "- Undergraduate in Information Systems - UFU",
 ]
-interest = "software development and engineering"
+interest = "Software Quality (QA), Development and Software Engineering"
 dream = "travel the world"
 
-def introduction(name: str, birth: date, education: list[str], interest: str, dream: str) -> None:
+def presentation(name: str, birth: date, educations: list[str], interest: str, dream: str) -> str:
     message = (
         f"Name: {name} || Age: {(date.today() - birth).days // 365} years old\n\n"
-        + "Education:\n"
-        + "\n".join(education)
-        + f"\n\nCurrently, I am interested in {interest}\n\n"
-        + f"Biggest dream: {dream}"
+        f"Education:\n{"\n".join(educations)}"
+        f"\n\nCurrent interests: {interest}\n\n"
+        f"Biggest dream: {dream}"
     )
-    print(message)
+    return message
 
 if __name__ == "__main__":
-    introduction(name, birth, education, interest, dream)
+    print(presentation(name, birth, educations, interest, dream))
+
 ```
 
 ## Languages
